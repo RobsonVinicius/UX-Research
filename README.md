@@ -10,7 +10,7 @@
 
 + [Interaction Design Foundation - What is UX Research?](https://www.interaction-design.org/literature/topics/ux-research)
 + [Alura Blog - O que é UX Research?](https://www.alura.com.br/artigos/o-que-e-ux-research)
-+ [Nielsen Norman Group - What is User Research?](https://www.interaction-design.org/literature/topics/user-research)
++ [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)
 + [Zooming into User Research](https://medium.com/@camila.brj)
 
 <br>
