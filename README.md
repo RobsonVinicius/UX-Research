@@ -10,7 +10,6 @@
 
 + [Interaction Design Foundation - What is UX Research?](https://www.interaction-design.org/literature/topics/ux-research)
 + [Alura Blog - O que é UX Research?](https://www.alura.com.br/artigos/o-que-e-ux-research)
-+ [Nielsen Norman Group - User Research Methods: From Strategy to Requirements to Design](https://www.nngroup.com/courses/research-beyond-user-testing/)
 + [Nielsen Norman Group - What is User Research?](https://www.interaction-design.org/literature/topics/user-research)
 + [Zooming into User Research](https://medium.com/@camila.brj)
 
@@ -19,6 +18,7 @@
 ## 🎓 Cursos
 
 + Interaction Design Foundation - User Research - Methods and Best Practices (https://www.interaction-design.org/courses/user-research-methods-and-best-practices)
++ [Nielsen Norman Group - User Research Methods: From Strategy to Requirements to Design](https://www.nngroup.com/courses/research-beyond-user-testing/)
 + edX (https://www.edx.org/course/ux-research)
 + Mergo (https://www.mergo.com.br/ux-research/)
 + Alura - Formação UX Research (https://www.alura.com.br/formacao-ux-research)
