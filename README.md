@@ -12,7 +12,7 @@
 + [O que é UX Research? - Alura Blog](https://www.alura.com.br/artigos/o-que-e-ux-research)
 + [When to Use Which User-Experience Research Methods - NN Group](https://www.nngroup.com/articles/which-ux-research-methods/)
 + [Zooming into User Research - Medium Camila](https://medium.com/@camila.brj)
-+ [Acting on User Research](https://www.nngroup.com/articles/acting-on-user-research/)
++ [Acting on User Research - Nielsen Norman Group](https://www.nngroup.com/articles/acting-on-user-research/)
 
 <br>
 
