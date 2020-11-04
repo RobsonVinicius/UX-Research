@@ -31,10 +31,6 @@
 + [Guia Prático de UX Research. com Diana Fournier UX Research no Grupo ZAP](https://www.youtube.com/watch?v=C6urHjGxRE4&ab_channel=Xlab)
 + [A Day in The Life of a UX Researcher in San Francisco (Silicon Valley)](https://www.youtube.com/watch?v=6xO4ltetSZE&ab_channel=KevinLiang)
 
-
-<br>
-
-
 <br>
 
 ## ✏️ Documentação de Estudo:
