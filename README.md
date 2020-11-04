@@ -17,11 +17,11 @@
 
 ## 🎓 Cursos
 
-+ Interaction Design Foundation - User Research - Methods and Best Practices (https://www.interaction-design.org/courses/user-research-methods-and-best-practices)
++ [Interaction Design Foundation - User Research - Methods and Best Practices](https://www.interaction-design.org/courses/user-research-methods-and-best-practices)
 + [Nielsen Norman Group - User Research Methods: From Strategy to Requirements to Design](https://www.nngroup.com/courses/research-beyond-user-testing/)
-+ edX (https://www.edx.org/course/ux-research)
-+ Mergo (https://www.mergo.com.br/ux-research/)
-+ Alura - Formação UX Research (https://www.alura.com.br/formacao-ux-research)
++ [edX - UX Research](https://www.edx.org/course/ux-research)
++ [Mergo - UX Research](https://www.mergo.com.br/ux-research/)
++ [Alura - Formação UX Research](https://www.alura.com.br/formacao-ux-research)
 
 <br>
 
