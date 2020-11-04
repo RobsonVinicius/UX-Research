@@ -8,10 +8,11 @@
 
 ## 📰 Posts
 
-+ [Interaction Design Foundation - What is UX Research?](https://www.interaction-design.org/literature/topics/ux-research)
-+ [Alura Blog - O que é UX Research?](https://www.alura.com.br/artigos/o-que-e-ux-research)
-+ [When to Use Which User-Experience Research Methods](https://www.nngroup.com/articles/which-ux-research-methods/)
-+ [Zooming into User Research](https://medium.com/@camila.brj)
++ [What is UX Research? - Interaction Design Foundation](https://www.interaction-design.org/literature/topics/ux-research)
++ [O que é UX Research? - Alura Blog](https://www.alura.com.br/artigos/o-que-e-ux-research)
++ [When to Use Which User-Experience Research Methods - NN Group](https://www.nngroup.com/articles/which-ux-research-methods/)
++ [Zooming into User Research - Medium Camila](https://medium.com/@camila.brj)
++ [Acting on User Research](https://www.nngroup.com/articles/acting-on-user-research/)
 
 <br>
 
