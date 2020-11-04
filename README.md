@@ -1,6 +1,6 @@
 <div align="center">
  
- ![UX Research Header Readme](imagens/ux-research.png)
+ ![UX Research Header Readme](imagens/ux-research.jpg)
 
   ### **Repositório criado para documentação de estudos em UX Research**
 </div>
