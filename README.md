@@ -13,6 +13,7 @@
 + [When to Use Which User-Experience Research Methods - NN Group](https://www.nngroup.com/articles/which-ux-research-methods/)
 + [Zooming into User Research - Medium Camila](https://medium.com/@camila.brj)
 + [Acting on User Research - Nielsen Norman Group](https://www.nngroup.com/articles/acting-on-user-research/)
++ [UX Research Career Starter Guide - UX Planet](https://uxplanet.org/ux-research-career-starter-guide-80dafda0a601)
 
 <br>
 
