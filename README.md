@@ -14,6 +14,7 @@
 + [Zooming into User Research - Medium Camila](https://medium.com/@camila.brj)
 + [Acting on User Research - Nielsen Norman Group](https://www.nngroup.com/articles/acting-on-user-research/)
 + [UX Research Career Starter Guide - UX Planet](https://uxplanet.org/ux-research-career-starter-guide-80dafda0a601)
++ [Entendendo o usuário com proto-persona - Caelum](https://blog.caelum.com.br/entendendo-usuario-proto-persona/)
 
 <br>
 
