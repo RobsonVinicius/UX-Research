@@ -36,6 +36,12 @@
 
 <br>
 
+## 🎤 Post
+
++ [UX Research](https://cursos.alura.com.br/hipsterstech-ux-research-hipsters-185-a377)
+
+<br>
+
 ## ✏️ Documentação de Estudo:
 
-+ **Em breve**
++ UX Research: entrevistas com equipes internas
