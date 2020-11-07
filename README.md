@@ -44,4 +44,4 @@
 
 ## ✏️ Documentação de Estudo:
 
-+ **Em breve**
++ UX Research: entrevistas com equipes internas
