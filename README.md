@@ -31,6 +31,7 @@
 + [The Art of Guerrilla Usability Testing](https://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/)
 + [Guerrilla Usability Testing: How To Introduce It In Your Next UX Project](https://usabilitygeek.com/guerrilla-usability-testing-how-to/)
 + [Ferramentas de Teste de Usabilidade para Rápidos Feedback Iniciais](https://webdesign.tutsplus.com/pt/articles/usability-testing-tools-for-quick-and-early-feedback--cms-27049)
++ [UX: Conhecendo além de quem usa](https://www.alura.com.br/artigos/conhecendo-alem-de-quem-usa)
 
 
 
