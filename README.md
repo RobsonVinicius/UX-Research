@@ -29,6 +29,7 @@
 + [Testar com 5 usuários é suficiente (vídeo)](https://brasil.uxdesign.cc/testar-com-5-usu%C3%A1rios-%C3%A9-suficiente-v%C3%ADdeo-8efea92d0caa)
 + [The Art of Guerrilla Usability Testing](https://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/)
 + [Guerrilla Usability Testing: How To Introduce It In Your Next UX Project](https://usabilitygeek.com/guerrilla-usability-testing-how-to/)
++ [Ferramentas de Teste de Usabilidade para Rápidos Feedback Iniciais](https://webdesign.tutsplus.com/pt/articles/usability-testing-tools-for-quick-and-early-feedback--cms-27049)
 
 
 <br>
