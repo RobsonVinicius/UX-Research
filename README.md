@@ -21,6 +21,7 @@
 + [Sitemap e User Flow: Quais as Diferenças e Quando Usar Cada Um?](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
 + [Fluxo de usuário (User Flow): O que é? Como fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
 + [Como Conduzir Análise de Tarefas no Processo de Design](http://designr.com.br/como-conduzir-analise-de-tarefas-no-processo-de-design/)
++ [Como Melhorar a Experiência do Usuário com Análise de Tarefas](http://designr.com.br/como-melhorar-experiencia-do-usuario-com-analise-de-tarefas/)
 <br>
 
 ## 🎓 Cursos
