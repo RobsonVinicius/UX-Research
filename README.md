@@ -28,6 +28,14 @@
 
 <br>
 
+## 📚 Livros
+
++ Quantifying the User Experience, 2ª edição, em inglês
++ Barbosa, Newton. (2015). Manual de Métodos Quantitativos de Pesquisa. DOI 10.13140.
+
+
+<br>
+
 ## 🎞️ Vídeos
 
 + [Conhecendo UX Research - Entrevista com Camila Borja UX Research Specialist no Banco Itaú Unibanco](https://www.youtube.com/watch?v=82V4cpzDlw0&ab_channel=DesignTeam)
