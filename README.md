@@ -24,6 +24,7 @@
 + [Como Melhorar a Experiência do Usuário com Análise de Tarefas](http://designr.com.br/como-melhorar-experiencia-do-usuario-com-analise-de-tarefas/)
 + [Hierarchical Task Analysis](https://www.uxmatters.com/mt/archives/2010/02/hierarchical-task-analysis.php)
 + [How to improve your UX designs with Task Analysis](https://www.interaction-design.org/literature/article/task-analysis-a-ux-designer-s-best-friend)
++ [A importância dos testes de usabilidade](https://coletivoux.com/a-import%C3%A2ncia-dos-testes-de-usabilidade-2a2fcc1e5906)
 
 <br>
 
