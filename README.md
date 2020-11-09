@@ -16,6 +16,7 @@
 + [UX Research Career Starter Guide - UX Planet](https://uxplanet.org/ux-research-career-starter-guide-80dafda0a601)
 + [Entendendo o usuário com proto-persona - Caelum](https://blog.caelum.com.br/entendendo-usuario-proto-persona/)
 + [Questionário online — você está perguntando direito? - UX Collective](https://brasil.uxdesign.cc/question%C3%A1rio-online-voc%C3%AA-est%C3%A1-perguntando-direito-77e4be8a89f5)
++ [Perguntas a serem evitadas em pesquisa com usuários](https://uxdesign.blog.br/perguntas-a-evitar-em-pesquisas-com-usuarios-8ae93a205264)
 
 <br>
 
