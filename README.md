@@ -26,6 +26,7 @@
 + [How to improve your UX designs with Task Analysis](https://www.interaction-design.org/literature/article/task-analysis-a-ux-designer-s-best-friend)
 + [A importância dos testes de usabilidade](https://coletivoux.com/a-import%C3%A2ncia-dos-testes-de-usabilidade-2a2fcc1e5906)
 + [Teste de Guerrilha: como e quando vale a pena usá-lo?](https://medium.com/badaroux/teste-de-guerrilha-como-e-quando-vale-a-pena-us%C3%A1-lo-3d7458d4467c)
++ [Testar com 5 usuários é suficiente (vídeo)](https://brasil.uxdesign.cc/testar-com-5-usu%C3%A1rios-%C3%A9-suficiente-v%C3%ADdeo-8efea92d0caa)
 
 <br>
 
