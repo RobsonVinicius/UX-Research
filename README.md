@@ -62,8 +62,8 @@
 
 ## 🎤 Podcast
 
-+ [UX Research](https://cursos.alura.com.br/hipsterstech-ux-research-hipsters-185-a377)
-
++ [UX Research - Hipsters #185](https://cursos.alura.com.br/hipsterstech-ux-research-hipsters-185-a377)
++ [UX: Pesquisa com o Usuário - Hipsters #44](https://cursos.alura.com.br/hipsterstech-ux-pesquisa-com-o-usuario-hipsters-44-a542)
 <br>
 
 ## ✏️ Documentação de Estudo:
