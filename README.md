@@ -67,6 +67,7 @@
 
 + [UX Research - Hipsters #185](https://cursos.alura.com.br/hipsterstech-ux-research-hipsters-185-a377)
 + [UX: Pesquisa com o Usuário - Hipsters #44](https://cursos.alura.com.br/hipsterstech-ux-pesquisa-com-o-usuario-hipsters-44-a542)
++ [Testes A/B - Hipster #59](https://cursos.alura.com.br/hipsterstech-testes-a-b-hipsters-59-a527)
 
 <br>
 
