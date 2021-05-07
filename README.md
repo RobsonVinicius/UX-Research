@@ -46,6 +46,7 @@
 + [Mergo - UX Research](https://www.mergo.com.br/ux-research/)
 + [Alura - Formação UX Research](https://www.alura.com.br/formacao-ux-research)
 + [Udemy (Vanessa Spanholi, Álvaro Junior) - Curso UX Research](https://www.udemy.com/course/curso-ux-research/?fbclid=IwAR0h3UkVDdsuVNdR_sHcBCCwOTBBc8anKgBe-lbNbHefkHCe64T2cXFd0Ts)
++ [Udemy - Amyris Fernandez) - UX Research: Um Guia Prático de Trabalho](https://www.udemy.com/course/ux-research-um-guia-pratico-de-trabalho/?fbclid=IwAR2aNYPeI9tn8pmY17ouDy7Ov9J_lHRrc2GvE_YigQPUl09bqvE8vNBaKmg)
 
 <br>
 
