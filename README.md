@@ -34,6 +34,7 @@
 + [Ferramentas de Teste de Usabilidade para Rápidos Feedback Iniciais](https://webdesign.tutsplus.com/pt/articles/usability-testing-tools-for-quick-and-early-feedback--cms-27049)
 + [UX: Conhecendo além de quem usa](https://www.alura.com.br/artigos/conhecendo-alem-de-quem-usa)
 + [UX Research: Conhecendo melhor o usuário](https://www.alura.com.br/artigos/ux-research-conhecendo-melhor-quem-usa#:~:text=A%2520%25C3%25A1rea%2520de%2520UX%2520Research,o%2520que%2520elas%2520acham%2520dele.)
++ [The importance of UX research in the design process: What can make or break a design for users](https://uxplanet.org/the-importance-of-ux-research-in-the-design-process-what-can-make-or-break-a-design-for-users-f407028f23a6)
 
 
 <br>
