@@ -60,6 +60,7 @@
 + O que é Grounded Theory? - Massimiliano Tarozzi
 + Mental Models - Indi Young
 + Practical empathy - Indi Young
++ Listening well - William R. Miller
 
 <br>
 
