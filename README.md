@@ -61,6 +61,8 @@
 + Mental Models - Indi Young
 + Practical empathy - Indi Young
 + Listening well - William R. Miller
++ Mixed Methods - Sam Ladner Phd
+
 
 <br>
 
