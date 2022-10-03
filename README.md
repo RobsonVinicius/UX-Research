@@ -13,7 +13,7 @@
 + Barbosa, Newton. (2015). Manual de Métodos Quantitativos de Pesquisa. DOI 10.13140.
 + O que é Grounded Theory? - Massimiliano Tarozzi
 + [Mental Models - Indi Young](https://amzn.to/3SS508Q) | [Versão Kindle](https://amzn.to/3fwIfZz)
-+ Practical empathy - Indi Young
++ [Practical empathy - Indi Young](https://amzn.to/3Ee4rSC) | [Versão Kindle](https://amzn.to/3SvnY5t)
 + Listening well - William R. Miller
 + Mixed Methods - Sam Ladner Phd
 
