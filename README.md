@@ -6,6 +6,20 @@
 </div>
 <br><br>
 
+## 📚 Livros
+
++ [Think Like a UX Research - David Travis, Philip Hodgson](https://amzn.to/3Rntsxz)
++ [Quantifying the User Experience, 2ª edição, em inglês](https://amzn.to/3EclW5G) | [Versão Kindle](https://amzn.to/3CtjOW0)
++ Barbosa, Newton. (2015). Manual de Métodos Quantitativos de Pesquisa. DOI 10.13140.
++ O que é Grounded Theory? - Massimiliano Tarozzi
++ [Mental Models - Indi Young](https://amzn.to/3SS508Q) | [Versão Kindle](https://amzn.to/3fwIfZz)
++ Practical empathy - Indi Young
++ Listening well - William R. Miller
++ Mixed Methods - Sam Ladner Phd
+
+
+<br>
+
 ## 📰 Posts / Artigos
 
 + [What is UX Research? - Interaction Design Foundation](https://www.interaction-design.org/literature/topics/ux-research)
@@ -49,20 +63,6 @@
 + [Udemy (Vanessa Spanholi, Álvaro Junior) - Curso UX Research](https://www.udemy.com/course/curso-ux-research/?fbclid=IwAR0h3UkVDdsuVNdR_sHcBCCwOTBBc8anKgBe-lbNbHefkHCe64T2cXFd0Ts)
 + [Udemy (Amyris Fernandez) - UX Research: Um Guia Prático de Trabalho](https://www.udemy.com/course/ux-research-um-guia-pratico-de-trabalho/?fbclid=IwAR2aNYPeI9tn8pmY17ouDy7Ov9J_lHRrc2GvE_YigQPUl09bqvE8vNBaKmg)
 + [Udemy (Rob Sutcliffe) - Master Digital Product Design: UX Research & UI Design](https://www.udemy.com/course/master-digital-product-design-ux-research-ui-design/?fbclid=IwAR3gannTfsOxLh30EGqnnH-oBOtesEuLwSwrF6SLXXV1LL055mWAMJQjUc4)
-
-<br>
-
-## 📚 Livros
-
-+ [Think Like a UX Research - David Travis, Philip Hodgson](https://amzn.to/3Rntsxz)
-+ [Quantifying the User Experience, 2ª edição, em inglês](https://amzn.to/3EclW5G) | [Versão Kindle](https://amzn.to/3CtjOW0)
-+ Barbosa, Newton. (2015). Manual de Métodos Quantitativos de Pesquisa. DOI 10.13140.
-+ O que é Grounded Theory? - Massimiliano Tarozzi
-+ Mental Models - Indi Young
-+ Practical empathy - Indi Young
-+ Listening well - William R. Miller
-+ Mixed Methods - Sam Ladner Phd
-+ O que é Grounded Theory? - Massimiliano Tarozzi
 
 <br>
 
