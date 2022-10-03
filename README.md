@@ -55,7 +55,7 @@
 ## 📚 Livros
 
 + [Think Like a UX Research - David Travis, Philip Hodgson](https://amzn.to/3Rntsxz)
-+ Quantifying the User Experience, 2ª edição, em inglês
++ [Quantifying the User Experience, 2ª edição, em inglês](https://amzn.to/3EclW5G) | [Versão Kindle](https://amzn.to/3CtjOW0)
 + Barbosa, Newton. (2015). Manual de Métodos Quantitativos de Pesquisa. DOI 10.13140.
 + O que é Grounded Theory? - Massimiliano Tarozzi
 + Mental Models - Indi Young
