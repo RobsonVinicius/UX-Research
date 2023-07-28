@@ -1,9 +1,15 @@
 <div align="center">
- 
- ![UX Research Header Readme](images/ux-research.png)
+  
+# UX Research
 
-  ### **Repositório criado para documentação de estudos em UX Research**
+Repositório dedicado a documentação de estudos em UX Research
+
+<br>
+
+ ![UX Research Header Readme](https://fuzzymath.com/wp-content/uploads/2020/08/UX_Research_Tools_We_Love.gif)
+
 </div>
+
 <br><br>
 
 ## 📚 Livros
