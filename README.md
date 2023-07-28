@@ -6,7 +6,9 @@ Repositório dedicado a documentação de estudos em UX Research
 
 <br>
 
- ![UX Research Header Readme](https://fuzzymath.com/wp-content/uploads/2020/08/UX_Research_Tools_We_Love.gif)
+ 
+<img src="https://fuzzymath.com/wp-content/uploads/2020/08/UX_Research_Tools_We_Love.gif" alt="UX Research Header Readme" style="height:400px;"/>
+
 
 </div>
 
