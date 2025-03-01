@@ -19,6 +19,7 @@ Repositório dedicado a documentação de estudos em UX Research
 | Capa | Livro | Autor | Livro Físico | Kindle |
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="https://m.media-amazon.com/images/I/51UdJg6xTsL._SL1360_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Think Like a UX Research | David Travis, Philip Hodgson | [Veja Mais](https://amzn.to/3ETTmbV) | | 
+| <img src="https://m.media-amazon.com/images/I/71WQ7Mi1JyL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Quantifying the User Experience: Practical Statistics for User Research  | Sauro, Lewis | [Veja Mais](https://amzn.to/3QEgDkq) | [Veja Mais](https://amzn.to/4bpEzBL) | 
 
 
 + [Quantifying the User Experience, 2ª edição, em inglês](https://amzn.to/3EclW5G) | [Versão Kindle](https://amzn.to/3CtjOW0)
