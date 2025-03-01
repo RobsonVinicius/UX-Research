@@ -20,16 +20,16 @@ Repositório dedicado a documentação de estudos em UX Research
 | :---: | :--- | :--- | :---: | :---: |
 | <img src="https://m.media-amazon.com/images/I/51UdJg6xTsL._SL1360_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Think Like a UX Research | David Travis, Philip Hodgson | [Veja Mais](https://amzn.to/3ETTmbV) | | 
 | <img src="https://m.media-amazon.com/images/I/71WQ7Mi1JyL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Quantifying the User Experience: Practical Statistics for User Research  | Sauro, Lewis | [Veja Mais](https://amzn.to/3QEgDkq) | [Veja Mais](https://amzn.to/4bpEzBL) | 
+| <img src="https://m.media-amazon.com/images/I/71WQ7Mi1JyL._SL1500_.jpg" min-width="50px" width="50px" align="center" alt="image"> | Quantifying the User Experience: Practical Statistics for User Research  | Sauro, Lewis | [Veja Mais](https://amzn.to/3QEgDkq) | [Veja Mais](https://amzn.to/4bpEzBL) | 
 
 
-+ [Quantifying the User Experience, 2ª edição, em inglês](https://amzn.to/3EclW5G) | [Versão Kindle](https://amzn.to/3CtjOW0)
-+ Barbosa, Newton. (2015). Manual de Métodos Quantitativos de Pesquisa. DOI 10.13140.
-+ O que é Grounded Theory? - Massimiliano Tarozzi
+
 + [Mental Models - Indi Young](https://amzn.to/3SS508Q) | [Versão Kindle](https://amzn.to/3fwIfZz)
 + [Practical empathy - Indi Young](https://amzn.to/3Ee4rSC) | [Versão Kindle](https://amzn.to/3SvnY5t)
 + [Listening well - William R. Miller](https://amzn.to/3V0Gpk7) | [Versão Kindle](https://amzn.to/3CvbN30)
 + [Mixed Methods - Sam Ladner Phd](https://amzn.to/3Ed0Fc5) | [Versão Kindle](https://amzn.to/3rozNyg)
-
++ Barbosa, Newton. (2015). Manual de Métodos Quantitativos de Pesquisa. DOI 10.13140.
++ O que é Grounded Theory? - Massimiliano Tarozzi
 
 <br>
 
