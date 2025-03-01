@@ -24,7 +24,7 @@ Repositório dedicado a documentação de estudos em UX Research
 
 
 
-+ [Mental Models - Indi Young](https://amzn.to/3SS508Q) | [Versão Kindle](https://amzn.to/3fwIfZz)
+
 + [Practical empathy - Indi Young](https://amzn.to/3Ee4rSC) | [Versão Kindle](https://amzn.to/3SvnY5t)
 + [Listening well - William R. Miller](https://amzn.to/3V0Gpk7) | [Versão Kindle](https://amzn.to/3CvbN30)
 + [Mixed Methods - Sam Ladner Phd](https://amzn.to/3Ed0Fc5) | [Versão Kindle](https://amzn.to/3rozNyg)
